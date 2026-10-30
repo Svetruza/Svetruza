@@ -1,0 +1,24 @@
+{
+  "name": "Svet Ruža",
+  "short_name": "Svet Ruža",
+  "description": "Satenske ruže koje večno traju. Ručni rad, Beograd, dostava širom Srbije.",
+  "lang": "sr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#100a0d",
+  "theme_color": "#100a0d",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
